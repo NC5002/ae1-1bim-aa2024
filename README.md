@@ -1,6 +1,7 @@
 # ae1-1bim-aa2024
 
 * Realice un fork al repositorio
+* Version de Python : Python 3.12.2
 * Realice el proceso de clonación.
 * Agregue una rama adicional al repositorio. Se debe tener una rama llamada main y un rama denomindad ramados
 * En la rama main:
